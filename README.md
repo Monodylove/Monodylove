@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monodylove
+- 👋 Hi, I’m @Miao Zhuqing
 - 👀 I’m interested in statistics(computational statistics,stochastic process...) and computer science(Data Structures and Algorithms). 
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on what I interested in if I indeed have the qualifications 
