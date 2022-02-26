@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miao Zhuqing
 - 👀 I’m interested in statistics(computational statistics) and computer science(Data Structures and Algorithms). 
 - 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on what I interested in if I indeed have the qualifications 
+- 💞️ If I do qualify, I look forward to working with you in my area of interest. 
 - 📫 How to reach me Monodylove@outlook.com or crescent0301@163.com
 
 <!---
