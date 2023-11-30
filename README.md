@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miao Zhuqing
-- 👀 I’m interested in statistics. 
-- 🌱 I’m currently learning electronic information.
+- 👀 I’m interested in Statistics. 
+- 🌱 I’m currently learning Reliability Systems Engineering.
 - 💞️ If I do qualify, I look forward to working with you in my area of interest. 
 - 📫 How to reach me Monodylove@outlook.com or MiaoZQ0301@163.com
 
